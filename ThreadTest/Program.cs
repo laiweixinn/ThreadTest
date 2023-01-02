@@ -25,6 +25,7 @@ namespace ThreadTest
                         step=1;
                         Console.WriteLine("这是第1步");
                         Console.WriteLine("这是一个测试");
+                        Console.WriteLine("这是第二个测试");
                         break;
                     case 1:
                         Console.WriteLine("这是第2步");
